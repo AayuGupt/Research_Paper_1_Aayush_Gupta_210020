@@ -69,7 +69,7 @@ python main.py --task test --config configs/sta_test_stb.yml
 Now you can change the '.yml' config file depending upon what testing you want to perform. All config files avaialbe in configs/ .
 
 ## Inference
-Run the following command to get prediction of count and density map estimate for any image:
+Run the following command to get prediction of count of people and density map estimate for any image:
 ```
 python inference.py --img_path [path_to_img_file_or_directory] --model_path [path_to_model_weight] --save_path output.txt --vis_dir vis
 ```
