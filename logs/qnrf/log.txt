@@ -1,0 +1,10 @@
+Start testing at 2024-10-15 17:55:03
+Loading checkpoint from logs/qnrf/best.pth
+Testing results: mae: 64.8860 mse: 11837.0949 
+Testing results saved to logs/qnrf
+End testing at 2024-10-15 17:56:27
+Start testing at 2024-10-15 17:57:05
+Loading checkpoint from logs/qnrf/best.pth
+Testing results: mae: 12.6167 mse: 607.5703 
+Testing results saved to logs/qnrf
+End testing at 2024-10-15 18:00:14

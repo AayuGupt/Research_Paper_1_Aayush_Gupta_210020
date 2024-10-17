@@ -1,0 +1,7 @@
+Start testing at 2024-10-15 17:28:30
+Loading checkpoint from logs/stb/best.pth
+Start testing at 2024-10-15 17:29:18
+Loading checkpoint from logs/stb/best.pth
+Testing results: mae: 102.5953 mse: 33502.4964 
+Testing results saved to logs/stb
+End testing at 2024-10-15 17:30:49

@@ -1,0 +1,37 @@
+Start training at 2024-10-15 11:39:45
+Start training at 2024-10-15 11:42:58
+Start training at 2024-10-15 11:51:14
+Start training at 2024-10-15 11:58:06
+Start training at 2024-10-15 13:39:54
+Start training at 2024-10-15 13:41:02
+Start testing at 2024-10-15 17:11:08
+Loading checkpoint from logs/sta/best.pth
+Testing results: mae: 11.3939 mse: 389.2817 
+Testing results saved to logs/sta
+End testing at 2024-10-15 17:14:20
+Start testing at 2024-10-15 17:18:10
+Loading checkpoint from logs/sta/best.pth
+Testing results: mae: 11.3939 mse: 389.2817 
+Testing results saved to logs/sta
+End testing at 2024-10-15 17:21:22
+Start testing at 2024-10-15 17:26:54
+Loading checkpoint from logs/sta/best.pth
+Start training at 2024-10-16 01:31:50
+Start training at 2024-10-16 01:34:05
+Start training at 2024-10-16 01:36:34
+Epoch 0: Training loss: 14.6666 Version: sta
+Epoch 0: Val criterion: 237.1735 mse: 76223.7311 best: 10000000000.0000, time: 54.9782
+Epoch 0: saving best model...
+Epoch 1: Training loss: 96.4713 Version: sta
+Epoch 1: Val criterion: 272.9511 mse: 96745.2162 best: 237.1735, time: 51.7933
+Epoch 2: Training loss: 75.4551 Version: sta
+Epoch 2: Val criterion: 182.7003 mse: 57955.8152 best: 237.1735, time: 62.6268
+Epoch 2: saving best model...
+Best epoch: 2, best criterion: 182.7003390625
+Training results saved to logs/sta
+End training at 2024-10-16 01:39:25
+Start testing at 2024-10-16 01:41:11
+Loading checkpoint from logs/sta/best.pth
+Testing results: mae: 89.6499 mse: 13010.9443 
+Testing results saved to logs/sta
+End testing at 2024-10-16 01:44:27
