@@ -86,7 +86,6 @@ Update the sources of the image (sample added in code)
 
 
 ## Citation
-If you find this work helpful in your research, please cite the following:
 ```
 @inproceedings{pengMPCount2024,
   title = {Single Domain Generalization for Crowd Counting},
