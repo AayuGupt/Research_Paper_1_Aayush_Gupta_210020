@@ -84,7 +84,7 @@ I have also added a python file to visualize Grount Truth density map: file: dat
 Update the sources of the image (sample added in code)
 
 ## Project Report
-Project [report](Aayush_Gupta_210020_report.pdf) uploaded
+[Project Report](Aayush_Gupta_210020_report.pdf) uploaded
 
 ## Citation
 ```
